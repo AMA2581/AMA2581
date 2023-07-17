@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I’m a 20 years old programmer<br>💪 I’m working as a software developer intern at GAOTek Inc.<br>📚 I’m a student in Ilam University<br>💻 I’m currently learning Flutter and Swift<br>📫 You can reach me with email: amir.abravesh.ama@gmail.com
+👨‍💻 I’m a 20 years old programmer<br>💪 I’m learning mobile application development<br>📚 I’m a student in Ilam University<br>💻 I’m currently learning Flutter and Swift<br>📫 You can reach me with email: amir.abravesh.ama@gmail.com
 
 
 ## 🌐 Socials:
