@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I’m a 21 years old  Developer<br>💪 I develop for iOS/iPadOS and MacOS<br>📚 I’m a student in Ilam University<br>💻 I’m currently learning more about Swift<br>📫 You can reach me with email: amir.abravesh.ama@gmail.com
+👨‍💻 I’m a 21 years old  Developer<br>💪 I develop for iOS/iPadOS and MacOS<br>📚 I’m a student in Ilam University<br>💻 I code mostly in Swift but I'm learning C/C++ and obj-C<br>📫 You can reach me with email: amir.abravesh.ama@gmail.com
 
 
 ## 🌐 Socials:
